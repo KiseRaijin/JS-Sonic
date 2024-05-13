@@ -11,6 +11,7 @@
  */
 
 function ternaryChain(a, b) {
+    
 }
 
 module.exports = ternaryChain;
